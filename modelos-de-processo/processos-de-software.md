@@ -3,4 +3,4 @@ Conjunto de atividades relacionadas que levam à produção de um produto de sof
 - Uso de componentes pré-existentes é uma prática comum.
 
 Atividades fundamentais:
-- Especificação, projeto, implementação, validação e evolução.
+- Especificação, projeto, implementação, validação e evolução, porém podem aparecer mais.
