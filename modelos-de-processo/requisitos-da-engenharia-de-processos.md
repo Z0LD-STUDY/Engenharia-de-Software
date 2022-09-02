@@ -1,4 +1,4 @@
-Quando dizemos sobre os requisitos da engenharia de processos, podemos começar a quebrar os modelos apresentados, sendo eles a parte "externa", sendo que cada uma das atividades(especificação, desenvolvimento, etc) por sua vez podem ser quebradas em pequenas partes. A parte interna seria o modelo geral do processo.
+Quando dizemos sobre os requisitos da engenharia de processos, podemos começar a quebrar os modelos apresentados, sendo eles a parte "interna", sendo que cada uma das atividades(especificação, desenvolvimento, etc) por sua vez podem ser quebradas em pequenas partes. A parte externa seria o modelo geral do processo.
 
 Um exemplo sobre isso pode ser visualizado na imagem: especificação-requisitos.png na pasta modelos.
 
