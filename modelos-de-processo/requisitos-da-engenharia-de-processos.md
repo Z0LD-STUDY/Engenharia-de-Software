@@ -1,0 +1,5 @@
+Quando dizemos sobre os requisitos da engenharia de processos, podemos começar a quebrar os modelos apresentados, sendo eles a parte "externa", sendo que cada uma das atividades(especificação, desenvolvimento, etc) por sua vez podem ser quebradas em pequenas partes. A parte interna seria o modelo geral do processo.
+
+Um exemplo sobre isso pode ser visualizado na imagem: especificação-requisitos.png na pasta modelos.
+
+Nesse exemplo, na especificação, temos diversas etapas a serem seguidas, como por exemplo, o estudo de viabilidade: há a possibilidade desse requisito ser implementado? Se não tem como, porque não? Há algum impedimento? A partir disso, geramos um relatório da viabilidade. Sendo possível, iremos para as próximas etapas, como a análise de requisitos, especificação de requisitos, posteriormente, valida-se esses requisitos com o cliente, verificamos se é isso mesmo o que ele espera, para que não haja nenhum problema futuro sobre não ser o que o cliente esperava.
