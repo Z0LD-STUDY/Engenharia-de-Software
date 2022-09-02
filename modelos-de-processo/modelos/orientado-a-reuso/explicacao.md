@@ -1,0 +1,5 @@
+A reutilização de software é uma das áreas da engenharia de software que propõe um conjunto sistemático de processos, de técnicas e de ferramentas para obter produtos com alta qualidade e que sejam economicamente viáveis.
+
+É um modelo focado no reúso, reúso é a ideia de termos partes prontas do desenvolvimento de software e essas partes irão ser utilizadas. Um exemplo é a construção de uma casa: ao invés de montarmos tijolo por tijolo, temos partes pré montadas e essas partes prontas(componentes) irão ser juntadas para construir a casa de uma forma mais rápida.
+
+No caso do modelo, fazemos a análise de requisitos, validamos os componentes que já existem(os componentes podem não se adequar aos requisitos que temos, caso não se adéque, podemos mudar a ideia dos requisitos para podermos reaproveitar os componentes já existentes), desenvolvemos, integramos e validamos.

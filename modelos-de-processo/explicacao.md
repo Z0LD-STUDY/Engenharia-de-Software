@@ -8,3 +8,5 @@ Modelos mais comuns:
 - Cascata
 - Incremental
 - Orientado a reuso
+
+Independente do modelo de processo que seguirmos, podemos ter um padrão entre todos eles: especificação, desenvolvimento, validação e evolução.

@@ -1,0 +1,3 @@
+O modelo de construção incremental é um método de desenvolvimento de software em que o produto é projetado, implementado e testado de forma incremental até a conclusão do produto. Envolve desenvolvimento e manutenção. O produto é definido como acabado quando atende a todos os seus requisitos. (Wikipédia)
+
+A partir desse modelo, temos a visão mais clara da iteração que existe, ou seja, começamos criando o esboço e temos o processo de atividades simultâneas(por isso chamado de modelo incremental), que engloba a especificação, o desenvolvimento e a validação até chegarmos na versão final. 
