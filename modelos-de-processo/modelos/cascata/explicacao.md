@@ -1,0 +1,1 @@
+O Modelo em Cascata é um modelo de desenvolvimento de software sequencial no qual o processo é visto como um fluir constante para frente através das fases de análise de requisitos, projeto, implementação, testes, integração, e manutenção de software. (Wikipédia)
